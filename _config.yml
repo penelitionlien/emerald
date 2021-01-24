@@ -1,7 +1,7 @@
 # Site settings
 title: uzumaki | blog news
 description: "A minimal blog template, build with Jekyll."
-url: "https://uzumaki-botan.github.io/emerald/"
+url: ""
 author:
   name: "Jacopo Rabolini"
   email: "hello@jacoporabolini.com"
